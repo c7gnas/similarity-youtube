@@ -1,4 +1,4 @@
-# Similarity API
+# Similarity interface
 A project to learn modern full-stack development, inspired by @joshchan21s [vlog](https://www.youtube.com/watch?v=4lUkSgvmTYM&t=4s).
 
 
