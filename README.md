@@ -1,4 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Similarity API
+A project to learn modern full-stack development, inspired by @joshchan21s [vlog](https://www.youtube.com/watch?v=4lUkSgvmTYM&t=4s).
+
+
+## Features
+Rate Limited API routes
+
+Protection of sensitive routes
+
+Google authentication
+
+Typescript
+
+A complete API key system to create & revoke user keys
+
+Radix UI Primitives
+
+Tailwind CSS
+
+Fonts with next/font
+
+Icons from Lucide
+
+Beautiful dark mode with next-themes
+
+Class merging with taiwind-merge
+
+Animation with tailwindcss-animate
+
+Conditional classes with clsx
+
+Variants with class-variance-authority
 
 ## Getting Started
 
@@ -33,4 +64,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out  [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
